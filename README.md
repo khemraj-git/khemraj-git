@@ -52,4 +52,7 @@ Let’s Connect!
 
   </p>
 </div>
+> _"Code is the language I use to bring ideas to life."_
+
+⭐ Feel free to explore my repositories and leave a ⭐ if you like what you see!
 
