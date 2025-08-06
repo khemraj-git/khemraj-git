@@ -2,7 +2,7 @@
 <img src="banner.png" width="100%">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00F741&center=true&vCenter=true&width=700&height=60&lines=Hey!+It's+Khemraj+;Open+Source+Contributor;GENAI+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00F741&center=true&vCenter=true&width=700&height=60&lines=Hey!+It's+Khemraj+;Open+Source+Contributor;GENAI+Developer;ML)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me
 
