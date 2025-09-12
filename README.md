@@ -52,6 +52,9 @@ Let’s Connect!
 
   </p>
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khemraj-git&label=Profile%20views&color=0e75b6&style=flat" alt="khemraj-git" />
+</p>
 > __"Code is the language I use to bring ideas to life."__
 
 ⭐ Feel free to explore my repositories and leave a ⭐ if you like what you see!
