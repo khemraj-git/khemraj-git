@@ -1,5 +1,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img src="banner.png" width="100%">
+
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<br>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00F741&center=true&vCenter=true&width=700&height=60&lines=Hey!+It's+Khemraj+;Open+Source+Contributor;GENAI+Developer;ML)](https://git.io/typing-svg)
@@ -60,5 +63,7 @@ Let’s Connect!
 
 ⭐ Feel free to explore my repositories and leave a ⭐ if you like what you see!
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+<div align=""> <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/> </div> <br><br>
 
